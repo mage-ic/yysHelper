@@ -1,0 +1,14 @@
+{
+  "backMainPage_button_allPage": [
+    "./Templates/Common/backMainPage_button.png",
+    [100,10,145,60]
+  ],
+  "refresh_button_mainPage": [
+    "./Templates/Common/refresh_button_mainPage.png",
+    [1170,515,1240,565]
+  ],
+  "addition_button_mainPage": [
+    "./Templates/Common/addition_button_mainPage.png",
+    [350,30,400,90]
+  ]
+}

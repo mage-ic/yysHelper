@@ -1,0 +1,10 @@
+{
+  "activate_button_mainPage": [
+    "./Templates/Activate/activate_button_mainPage.png",
+    [1165,280,1240,350]
+  ],
+  "ta_button_mainPage": [
+    "./Templates/Activate/ta.png",
+    [650,375,700,465]
+  ]
+}
